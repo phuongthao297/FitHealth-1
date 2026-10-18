@@ -1,0 +1,11 @@
+FITHEALTH - WEBSITE DEMO
+
+1. Giai nen toan bo file ZIP.
+2. KHUYEN DUNG: bam doi MO_WEBSITE.bat (Windows) hoac MO_WEBSITE.command (Mac) de mo web. Can cai Python.
+   Neu mo truc tiep index.html thi video YouTube se khong phat ngay trong trang (loi 153), chi hien anh va nut mo YouTube. Giu nguyen thu muc assets.
+3. Tai khoan nguoi dung: demo@fithealth.vn / Demo@123
+4. Tai khoan quan tri: admin@fithealth.vn / Admin@123
+
+Du lieu demo duoc luu trong trinh duyet. Font chu truc tuyen can Internet; anh da kem theo.
+Neu trinh duyet han che luu du lieu khi mo file truc tiep, dung VS Code Live Server hoac chay: python -m http.server 8000
+Sau do mo http://localhost:8000 trong thu muc FitHealth.
